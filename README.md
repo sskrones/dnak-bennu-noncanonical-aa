@@ -66,7 +66,8 @@ The work combines **free energy calculations (ΔΔG)**, **AI-based structure pre
 dnak-noncanonical-aa/
 ├── README.md
 ├── report/
-│   └── DnaK_Thesis_Report_TR.docx      # Full thesis (APA7, Turkish)
+│   ├── DnaK_Thesis_Report_TR.docx      # Full thesis (APA7, Turkish)
+│   └── DnaK_Thesis_Report_EN.pdf       # English version
 ├── presentation/
 │   ├── DnaK_Presentation_TR.pptx       # Defense presentation (Turkish)
 │   └── DnaK_Presentation_EN.pptx       # English summary version
