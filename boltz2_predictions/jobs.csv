@@ -1,0 +1,12 @@
+job_name,positions,ccd,description
+wild_type,,,Unmodified reference structure (DnaK, 4B9Q chain A)
+390NVA,390,NVA,Linker L390 -> norvaline
+391NVA,391,NVA,Linker L391 -> norvaline
+390-391NVA,"390,391",NVA,Linker double mutant L390+L391 -> norvaline
+390-391ILE,"390,391",ILE,Linker double mutant L390+L391 -> isoleucine
+390-391VAL,"390,391",VAL,Linker double mutant L390+L391 -> valine
+390-391AIB,"390,391",AIB,Linker double mutant L390+L391 -> AIB
+429NVA,429,NVA,SBD A429 -> norvaline
+429ILE,429,ILE,SBD A429 -> isoleucine
+435ILE,435,ILE,SBD A435 -> isoleucine
+429-435ILE,"429,435",ILE,SBD double mutant A429+A435 -> isoleucine
